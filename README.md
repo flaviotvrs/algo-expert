@@ -7,3 +7,4 @@ This repository contains some challenging algorithms I implemented myself for pr
 2. [Merge Overlapping Intervals](https://www.algoexpert.io/questions/merge-overlapping-intervals)
 3. [Bubble Sort](https://www.algoexpert.io/questions/bubble-sort)
 4. [Find closest value in BST](https://www.algoexpert.io/questions/find-closest-value-in-bst)
+5. [Product Sum](https://www.algoexpert.io/questions/product-sum)
