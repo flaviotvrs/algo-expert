@@ -10,3 +10,4 @@ This repository contains some challenging algorithms I implemented myself for pr
 5. [Product Sum](https://www.algoexpert.io/questions/product-sum)
 6. [Transpose Matrix](https://www.algoexpert.io/questions/transpose-matrix)
 7. [Non-Constructible Change](https://www.algoexpert.io/questions/non-constructible-change)
+8. [Evaluate Expression Tree](https://www.algoexpert.io/questions/evaluate-expression-tree)
