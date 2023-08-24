@@ -12,3 +12,4 @@ This repository contains some challenging algorithms I implemented myself for pr
 7. [Non-Constructible Change](https://www.algoexpert.io/questions/non-constructible-change)
 8. [Evaluate Expression Tree](https://www.algoexpert.io/questions/evaluate-expression-tree)
 9. [Binary Search](https://www.algoexpert.io/questions/binary-search)
+10. [Satellite](satellite/README.md)
